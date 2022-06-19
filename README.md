@@ -9,6 +9,9 @@
 - [10장. 흥미로운 시간](https://github.com/ixtears23/tdd/wiki/10%EC%9E%A5.-%ED%9D%A5%EB%AF%B8%EB%A1%9C%EC%9A%B4-%EC%8B%9C%EA%B0%84)
 - [11장. 모든 악의 근원](https://github.com/ixtears23/tdd/wiki/11%EC%9E%A5.-%EB%AA%A8%EB%93%A0-%EC%95%85%EC%9D%98-%EA%B7%BC%EC%9B%90)
 - [12장. 드디어 더하기](https://github.com/ixtears23/tdd/wiki/12%EC%9E%A5.-%EB%93%9C%EB%94%94%EC%96%B4,-%EB%8D%94%ED%95%98%EA%B8%B0)
+- [13장. 진짜로 만들기](https://github.com/ixtears23/tdd/wiki/13%EC%9E%A5.-%EC%A7%84%EC%A7%9C%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)  
+- [14장. 바꾸기](https://github.com/ixtears23/tdd/wiki/14%EC%9E%A5.-%EB%B0%94%EA%BE%B8%EA%B8%B0)  
+- [15장. 서로 다른 통화 더하기](https://github.com/ixtears23/tdd/wiki/15%EC%9E%A5.-%EC%84%9C%EB%A1%9C-%EB%8B%A4%EB%A5%B8-%ED%86%B5%ED%99%94-%EB%8D%94%ED%95%98%EA%B8%B0)  
 
 ### 🔖 To-do list
 - $5 + 10CHF = $10(환율이 2:1일 경우)
