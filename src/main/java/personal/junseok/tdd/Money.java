@@ -9,6 +9,10 @@ public class Money implements Expression {
         this.currency = currency;
     }
 
+    public Expression plus(Money addend) {
+        return new Sum(this, addend);
+    }
+
     public static Money dollar(int amount) {
         return new Money(amount, "USD");
     }
