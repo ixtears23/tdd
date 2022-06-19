@@ -26,6 +26,8 @@
 - ~~Bank.reduce(Money)~~
 - ~~Money에 대한 통화 변환을 수행하는 Reduce~~
 - ~~Reduce(bank, String)~~
+- Sum.plus
+- Expression.times
 - ~~Dollar/Franc 중복~~
 - ~~공용 equals~~
 - ~~공용 times~~
