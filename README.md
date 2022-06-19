@@ -12,31 +12,7 @@
 - [13장. 진짜로 만들기](https://github.com/ixtears23/tdd/wiki/13%EC%9E%A5.-%EC%A7%84%EC%A7%9C%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)  
 - [14장. 바꾸기](https://github.com/ixtears23/tdd/wiki/14%EC%9E%A5.-%EB%B0%94%EA%BE%B8%EA%B8%B0)  
 - [15장. 서로 다른 통화 더하기](https://github.com/ixtears23/tdd/wiki/15%EC%9E%A5.-%EC%84%9C%EB%A1%9C-%EB%8B%A4%EB%A5%B8-%ED%86%B5%ED%99%94-%EB%8D%94%ED%95%98%EA%B8%B0)  
-
-### 🔖 To-do list
-- $5 + 10CHF = $10(환율이 2:1일 경우)
-- ~~$5 X 2 = $10~~
-- ~~amount 를 private으로 만들기~~
-- ~~Dollar 부작용(side effect)?~~
-- Money 반올림
-- ~~equals()~~
-- hashCode()
-- Equal null
-- Equal object
-- ~~5CHF X 2 = 10CHF~~
-- ~~$5 + $5 = $10~~
-- $5 + $5에서 Money 반환하기
-- ~~Bank.reduce(Money)~~
-- ~~Money에 대한 통화 변환을 수행하는 Reduce~~
-- ~~Reduce(bank, String)~~
-- Sum.plus
-- Expression.times
-- ~~Dollar/Franc 중복~~
-- ~~공용 equals~~
-- ~~공용 times~~
-- ~~Franc과 Dollar 비하기~~
-- ~~통화?~~
-- ~~testFrancMultiplication 삭제~~
+- [16장. 드디어, 추상화](https://github.com/ixtears23/tdd/wiki/16%EC%9E%A5.-%EB%93%9C%EB%94%94%EC%96%B4,-%EC%B6%94%EC%83%81%ED%99%94)
 
 ### Notion
 #### 💡 주기
@@ -58,4 +34,27 @@
 > 뭘 입력해야 할지 알 때는 **명백한 구현**  
 예상치 못한 빨간 막대를 만나게 되면 **가짜로 구현**  
 
-
+### 🔖 To-do list
+- $5 + 10CHF = $10(환율이 2:1일 경우)
+- ~~$5 X 2 = $10~~
+- ~~amount 를 private으로 만들기~~
+- ~~Dollar 부작용(side effect)?~~
+- Money 반올림
+- ~~equals()~~
+- hashCode()
+- Equal null
+- Equal object
+- ~~5CHF X 2 = 10CHF~~
+- ~~$5 + $5 = $10~~
+- ~~$5 + $5에서 Money 반환하기~~
+- ~~Bank.reduce(Money)~~
+- ~~Money에 대한 통화 변환을 수행하는 Reduce~~
+- ~~Reduce(bank, String)~~
+- ~~Sum.plus~~
+- ~~Expression.times~~
+- ~~Dollar/Franc 중복~~
+- ~~공용 equals~~
+- ~~공용 times~~
+- ~~Franc과 Dollar 비하기~~
+- ~~통화?~~
+- ~~testFrancMultiplication 삭제~~
